@@ -1,69 +1,54 @@
-# spjr1115
-My Profile Repostioty
-<div align="center">
-👋 Hi, I’m Sujal
-Computer Science Student | Learning by Building
-</div>
-🎓 About Me
+# Hi, I'm Sujal 👋
 
-Computer Science student, still learning
+Computer Science & Engineering student building practical web experiences and technology-driven projects.
 
-Focused on strong fundamentals
+## What I Do
 
-Learning through practice, mistakes, and iteration
+- Build responsive web applications and interactive user interfaces
+- Explore software development, AI concepts, and IoT systems
+- Turn ideas into working, practical software products
+- Learn continuously by building and shipping real projects
 
-Curious about how code, logic, and systems connect
+## Tech Stack
 
-📚 Currently Learning
+### Building With
+React · JavaScript · HTML · CSS · Tailwind CSS · Firebase
 
-Data Structures & Algorithms (step by step)
+### Working With
+Java · Python · C · C++ · Git · GitHub
 
-Core programming concepts
+### Exploring
+AI · IoT · TypeScript · Framer Motion
 
-Writing clean and readable code
+## Featured Projects
 
-Problem-solving through small projects
+### 01 — Zayathon
+A hackathon platform designed to help participants discover opportunities, explore domains, follow the event timeline, and navigate their project journey.
+- **Live Demo**: [https://zayathon-xi.vercel.app/](https://zayathon-xi.vercel.app/)
+- **Repository**: [https://github.com/spjr1115-creator/Zayathon](https://github.com/spjr1115-creator/Zayathon)
 
-🛠 Tech Stack (Student Level)
-<div align="center">
-### 🛠 Tech Stack (Student Level)
-- Languages: Python, C, JavaScript (basics)
-- Web: HTML, CSS
-- Tools: Git, GitHub, VS Code
-- Currently exploring: Excel, SQL, Power BI
-</div>
-📂 Repositories Contain
+### 02 — NEER
+An IoT-focused safety system designed around emergency assistance, location tracking, and real-time safety event handling.
+- **Repository**: [https://github.com/spjr1115-creator/NeerBand](https://github.com/spjr1115-creator/NeerBand)
 
-Practice programs & assignments
+### 03 — EcoQuest
+A gamified environmental experience designed to encourage sustainable habits through interactive challenges and progress tracking.
+- **Live Demo**: [https://ecoquest-neer4.vercel.app/](https://ecoquest-neer4.vercel.app/)
+- **Repository**: [https://github.com/spjr1115-creator/ecoquest](https://github.com/spjr1115-creator/ecoquest)
 
-Concept experiments and revisions
+### 04 — Expense Tracker
+A responsive personal finance application for tracking income and expenses, managing budgets, and visualizing monthly spending.
+- **Live Demo**: [https://spjr1115-creator.github.io/expense-tracker/](https://spjr1115-creator.github.io/expense-tracker/)
+- **Repository**: [https://github.com/spjr1115-creator/expense-tracker](https://github.com/spjr1115-creator/expense-tracker)
 
-Small projects to apply learning
+## Currently
 
-Progress over time — not perfection
+- Building web applications
+- Exploring AI & IoT
+- Learning by shipping projects
 
-🎯 Goals as a Student
+## Connect
 
-Build strong CS foundations
-
-Become confident in problem-solving
-
-Learn to think logically, not memorize
-
-Prepare for real-world development step by step
-
-📊 GitHub Activity
-<div align="center">
-📌 Using GitHub to track my learning journey  
-📌 Committing regularly while practicing concepts  
-</div>
-🤝 Connect
-
-GitHub: spjr1115
-🔗 LinkedIn: Sujal Panjiyar
-📧 Email: spjr1115@gmail.com
-<div align="center">
-
-🚧 Still learning. Still building. Still improving. 🚧
-
-</div>
+- **Portfolio**: [https://spjr1115-creator.github.io/sujal-portfolio/](https://spjr1115-creator.github.io/sujal-portfolio/)
+- **LinkedIn**: [https://www.linkedin.com/in/sujal-panjiyar-67b9bb393/](https://www.linkedin.com/in/sujal-panjiyar-67b9bb393/)
+- **Instagram**: [https://www.instagram.com/iamspjr15/](https://www.instagram.com/iamspjr15/)
